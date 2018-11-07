@@ -1,0 +1,5 @@
+spring:
+  # 控制台彩色输出
+  output:
+      ansi:
+        enabled: ALWAYS
